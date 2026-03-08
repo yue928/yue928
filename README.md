@@ -14,9 +14,9 @@
 ## Tech Stack
 
 <p>
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/Python.png" width="60">
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/C++.png" width="60">
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/Java.png" width="60">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/Python.png" width="70">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/C++.png" width="70">
+  <img src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/Programming/Java.png" width="70">
 </p>
 
 
